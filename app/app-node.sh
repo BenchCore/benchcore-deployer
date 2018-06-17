@@ -1,4 +1,4 @@
-Sidechain#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 app_install_node()
 {
